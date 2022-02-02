@@ -1,0 +1,143 @@
+#title {
+  background-color: #ff4c68;
+  text-align: center;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+.container-fluid {
+  padding: 2% 13%;
+}
+.navbar-brand {
+  font-size: 35px;
+  font-family: "Montserrat", sans-serif;
+}
+.nav-link {
+  font-family: "Montserrat", sans-serif;
+  padding: 1rem;
+}
+.nav-item {
+  padding: 1rem;
+}
+h5 {
+  font-family: "Montserrat", sans-serif;
+}
+nav {
+  margin-bottom: 3%;
+}
+.cat {
+  margin: 2%;
+  padding: 2%;
+}
+.download {
+  margin: 3%;
+}
+#cat {
+  width: 50%;
+  transform: rotate(20deg);
+  position: relative;
+  top: 5rem;
+  z-index: 1;
+}
+.features i {
+  font-size: 3rem;
+  color: #ef8172;
+  margin: 1rem;
+}
+#features {
+  padding: 7rem;
+  background-color: #fff;
+  position: relative;
+  z-index: 2;
+}
+.features {
+  text-align: center;
+  padding-top: 2rem;
+}
+.features h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+}
+.features p {
+  color: #8f8f8f;
+  padding: 1rem 6rem 0 6rem;
+}
+.features i:hover {
+  color: #ff4c68;
+}
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+}
+#testimonials img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 2rem;
+}
+#testimonials h2 {
+  color: #ffff;
+  font-family: "Montserrat", sans-serif;
+  line-height: 4rem;
+  font-size: 2.7rem;
+}
+#testimonials em {
+  color: #fff;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+}
+#press img {
+  width: 17.5%;
+  padding: 2rem;
+  margin-bottom: 3rem;
+}
+.carousel-item {
+  padding: 11rem;
+}
+#pricing {
+  padding: 7rem;
+  text-align: center;
+}
+#pricing h2 {
+  font-family: "Montserrat", sans-serif;
+}
+#row-card {
+  margin-top: 6rem;
+}
+.card {
+  margin: 2rem;
+}
+@media (max-width: 1028px) {
+  #cat {
+    width: 50%;
+    transform: rotate(0deg);
+    position: static;
+  }
+}
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 14%;
+}
+#cta h3 {
+  font-size: 3rem;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  padding: 2rem;
+}
+#cta button {
+  margin: 2rem;
+  font-size: 1.5rem;
+}
+#footer {
+  background-color: #fff;
+  text-align: center;
+  padding-top: 4rem;
+}
+#footer i {
+  padding: 1rem;
+}
